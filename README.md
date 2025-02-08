@@ -68,11 +68,11 @@ Anyway i create new telegram channel just for sharing bot or airdrop, join here
 
 Mango Testnet 
 
-➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=tVB90U)
+➡️ Register : [HERE](https://task.testnet.mangonetwork.io/?invite=XyBXfa)
 - Download Mango Wallet (https://chromewebstore.google.com/detail/mango-wallet/jiiigigdinhhgjflhljdkcelcjfmplnd) (Extension)
 - Backup Phrase
 - Claim Faucet on your wallet extension
-- Go To [Web](https://task.testnet.mangonetwork.io/?invite=tVB90U) 
+- Go To [Web](https://task.testnet.mangonetwork.io/?invite=XyBXfa) 
 - Complete Bind Social Media Accounts and JOIN NOW
 - Go to [Event Page](https://task.testnet.mangonetwork.io/events)
 - Complete Task on the Task List ( Swap , Bridge )
@@ -97,7 +97,7 @@ Bot ? Maybe
 ### Linux
 1. Clone project repo
    ```
-   git clone https://github.com/Widiskel/mango-testnet-bot.git && cd mango-testnet-bot
+   git clone https://github.com/trunghd113/mangobot.git && cd mango-testnet-bot
    ```
 2. Run
    ```
@@ -122,7 +122,7 @@ Bot ? Maybe
 1. Open your `Command Prompt` or `Power Shell`.
 2. Clone project repo
    ```
-   git clone https://github.com/Widiskel/mango-testnet-bot.git
+   git clone https://github.com/trunghd113/mangobot.git
    ```
    and cd to project dir
    ```
